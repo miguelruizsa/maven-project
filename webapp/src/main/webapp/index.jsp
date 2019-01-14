@@ -4,12 +4,6 @@
 	<title>Hola Mundo</title>
 </head>
 <body>
-
-Siguiente disparador<br>
-
-Hola Mundo<br>
-
-Disparador github
-
+Hola Mundo
 </body>
 </html>
