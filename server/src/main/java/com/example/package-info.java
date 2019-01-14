@@ -1,5 +1,5 @@
 /**
- * Nombre de paquete
+ * Nombre de paquete.
  */
 
 package com.example;
