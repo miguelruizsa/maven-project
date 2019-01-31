@@ -4,6 +4,6 @@
 	<title>Hola Mundo</title>
 </head>
 <body>
-Hola Yisus<br>
+Hola SCT<br>
 </body>
 </html>
