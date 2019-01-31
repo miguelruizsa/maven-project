@@ -4,7 +4,6 @@
 	<title>Hola Mundo</title>
 </head>
 <body>
-Hola Mundo xxx<br>
-Cambio
+Hola Mundo<br>
 </body>
 </html>
